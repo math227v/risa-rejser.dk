@@ -17,7 +17,7 @@
                 fortrolig. Det betyder at af hensyn til sikkerheden, er det vigtigt at INGEN andre finder ud af noget om
                 denne mission. Dette ville kunne forvolde alvorlig skade på Q-Alliancen, og ethvert brud på denne
                 tavshedspligt vil blive straffet. </p>
-            <p>Stol ikke på nogen. Selv Q-Alliancens eksistens skal holdes hemmelig.</p>
+            <p>Stol ikke på nogen. Selv Q-Alliancens eksistens skal holdes hemmeligt overfor alle og enhver.</p>
 
             <p class="my-5">Alle nye rekrutter i træningslejren bedes medbringe følgende:</p>
             <ul class="list-disc ml-4">
