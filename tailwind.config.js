@@ -4,7 +4,9 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      ibm: ['IBM Plex Sans', 'sans-serif']
+    },
   },
   plugins: [],
 }
