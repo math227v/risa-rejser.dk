@@ -10,7 +10,7 @@
                 <p>Jeg er glad for at du så igennem den falske ferierejse, og nu har fundet din indkaldelse til Q-Alliancens
                     indsatsstyrke.</p>
 
-                <p class="my-5">Situationen i vores sektor er kritisk. Armus`Hadar vinder frem med hidtil uset hastighed. Dette
+                <p class="my-5">Situationen i vores sektor er kritisk. Armus'Hadar vinder frem med hidtil uset hastighed. Dette
                     sætter os under et stort pres. Derfor bliver du indkaldt til Q-Alliancens træningslejr på planeten Risa.
                     I træningslejren vil du indgå i Q-Alliancens indsatsstyrke, og deltage i træningen.</p>
 
@@ -22,9 +22,9 @@
 
                 <p class="my-5">Alle nye rekrutter i træningslejren bedes medbringe følgende:</p>
                 <ul class="list-disc ml-4">
-                    <li>En rulle skraldeposer </li>
                     <li>Håndklæde</li>
                     <li>Skriveredskaber</li>
+                    <li><span class="bg-black py-1 font-bold text-black">En rulle skraldeposer</span></li>
                     <li>Mikroovnspopcorn</li>
                     <li>Dagstursrygsæk</li>
                 </ul>
@@ -34,7 +34,7 @@
                 <p class="mb-2 mt-5">Held og lykke rekrut,</p>
 
                 <p class="">
-                    A. Strøm, M. Nielsen, & M. Lauridsen
+                    A. S<span class="bg-black py-1 font-bold text-black">trøm</span>, M. N<span class="bg-black py-1 font-bold text-black">ielsen</span>, & M. L<span class="bg-black p-1 font-bold text-black">auridsen</span>
                 </p>
 
                 <h2 class="text-xl font-bold my-5">Q-Alliancen</h2>
@@ -46,8 +46,8 @@
             <pre class="">
 <span class="font-bold">DATO       </span> 2023-10-14T15:30:00A
 <span class="font-bold">           </span> 2023-10-20T11:00:00A
-<span class="font-bold">STED       </span> <span class="bg-black text-white p-1 font-bold">            </span>
-<span class="font-bold">MISSIONSID </span> MSE<span class="bg-black text-white p-1 font-bold">       </span>SVK
+<span class="font-bold">STED       </span> <span class="bg-black py-1 font-bold text-black">Midtsjællands Efterskole</span>
+<span class="font-bold">MISSION    </span> MSE<span class="bg-black py-1 font-bold text-black">E23</span>SVK
 <span class="font-bold">DÆKNAVN    </span> Risa-Rejser</pre>
         </div>
     </div>
