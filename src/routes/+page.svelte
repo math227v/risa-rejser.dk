@@ -43,12 +43,13 @@
 
         <div class="font-mono mt-0 mb-8 lg:my-16 border shadow h-full p-4 mx-4">
             <p class="font-bold text-center mb-4">Q-ALLIANCEN</p>
-            <pre class="">
-<span class="font-bold">DATO       </span> 2023-10-14T15:30:00A
-<span class="font-bold">           </span> 2023-10-20T11:00:00A
-<span class="font-bold">STED       </span> <span class="bg-black py-1 font-bold text-black">Midtsjællands Efterskole</span>
-<span class="font-bold">MISSION    </span> MSE<span class="bg-black py-1 font-bold text-black">E23</span>SVK
-<span class="font-bold">DÆKNAVN    </span> Risa-Rejser</pre>
+            <pre class="w-full">
+<span class="font-bold">DATO     </span> 2023-10-14T15:30:00A
+<span class="font-bold">         </span> 2023-10-20T11:00:00A
+<span class="font-bold">STED     </span> <span class="bg-black py-1 font-bold text-black">Midtsjællands</span>
+           <span class="bg-black py-1 font-bold text-black">Efterskole</span>
+<span class="font-bold">MISSION  </span> MSE<span class="bg-black py-1 font-bold text-black">E23</span>SVK
+<span class="font-bold">DÆKNAVN  </span> Risa-Rejser</pre>
         </div>
     </div>
 </div>
