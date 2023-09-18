@@ -2,6 +2,6 @@
     import "../app.css";
 </script>
 
-<div class="font-ibm">
+<div class="font-mono">
     <slot />
 </div>

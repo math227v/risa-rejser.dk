@@ -34,7 +34,7 @@
                 <p class="mb-2 mt-5">Held og lykke rekrut,</p>
 
                 <p class="">
-                    A. S<span class="bg-black py-1 font-bold text-black">trøm</span>, M. N<span class="bg-black py-1 font-bold text-black">ielsen</span>, & M. L<span class="bg-black p-1 font-bold text-black">auridsen</span>
+                    A. S<span class="bg-black py-1 font-bold text-black">trøm</span>, M. N<span class="bg-black py-1 font-bold text-black">ielsen</span>, & M. L<span class="bg-black py-1 font-bold text-black">auridsen</span>
                 </p>
 
                 <h2 class="text-xl font-bold my-5">Q-Alliancen</h2>
